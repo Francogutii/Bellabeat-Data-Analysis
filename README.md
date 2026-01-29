@@ -13,7 +13,7 @@ Este proyecto forma parte del Certificado de Análisis de Datos de Google. El ob
 ## 3. Hallazgo Principal: ¿El sedentarismo afecta el sueño?
 Contrario a la creencia popular, mi análisis descubrió que **no existe una correlación fuerte** entre el tiempo que un usuario pasa sentado y la cantidad de minutos que duerme.
 
-![Gráfico de Sedentarismo](AQUI_IRÁ_TU_GRAFICO)
+![Gráfico de Sedentarismo](https://github.com/Francogutii/Bellabeat-Data-Analysis/blob/main/relationship%20between%20sedentary%20and%20sleep.png?raw=true)
 
 *Como se observa en el gráfico, la tendencia es casi plana (Correlación negativa débil), lo que sugiere que el descanso depende de otros factores.*
 
